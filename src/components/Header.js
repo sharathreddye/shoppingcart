@@ -8,8 +8,6 @@ class Header extends Component {
 
       <header>
 
-			
-
 			<div id="header">
 				<div class="container">
 					<div class="row">
